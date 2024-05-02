@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+}
+
+.sublogo {
+    
+    font-size: 15px;
+    padding: 0.2em;
+    border-top: 2px solid rgba(243, 218, 56, 0.763);
+    background-color: hsla(52, 89%, 95%, 0.763);
+}
+
+h2 {
+    border-bottom: 2px solid rgba(128, 230, 244, 0.249);
+}
+
+.left {
+    text-align: left;
+}
+
+#feature-link {
+    border-left: 3px solid rgba(243, 218, 56, 0.763);
+    padding-left: 1em;
+    line-height: 0.2;
+}
+
+#image-pizza img {
+    border-radius: 1em;
+}
